@@ -1,0 +1,22 @@
+{
+  "name": "3x",
+  "version": "1.0.0",
+  "description": "Adult videos web project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyberman219/3x.git"
+  },
+  "keywords": [
+    "3x"
+  ],
+  "author": "TuyenTran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cyberman219/3x/issues"
+  },
+  "homepage": "https://github.com/cyberman219/3x#readme"
+}
